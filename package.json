@@ -1,0 +1,23 @@
+{
+  "name": "@fragmentjs/core",
+  "version": "0.0.0",
+  "description": "",
+  "main": "packages/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fragmentjs/core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fragmentjs/core/issues"
+  },
+  "homepage": "https://github.com/fragmentjs/core#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
